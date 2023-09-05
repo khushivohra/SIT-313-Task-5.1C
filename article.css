@@ -1,0 +1,69 @@
+.title {
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 5px;
+}
+
+.title input[type="text"] {
+
+    padding: 5px;
+    border-radius: 4px;
+    outline: none;
+    font-size: 14px;
+    width: 1457px;
+}
+
+.abstract {
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 5px;
+}
+
+.abstract input[type="text"] {
+
+    padding: 5px;
+    border-radius: 4px;
+    outline: none;
+    font-size: 14px;
+    width: 1457px;
+    height: 50px;
+}
+
+.article {
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 5px;
+
+}
+
+.article input[type="text"] {
+
+    padding: 5px;
+    border-radius: 4px;
+    outline: none;
+    font-size: 14px;
+    width: 1457px;
+    height: 300px;
+}
+
+.tags {
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 5px;
+}
+
+.tags input[type="text"] {
+
+    padding: 5px;
+    border-radius: 4px;
+    outline: none;
+    font-size: 14px;
+    width: 1455px;
+}
+
+.Post button {
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 1393px;
+
+}

@@ -1,0 +1,43 @@
+.title {
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 5px;
+}
+
+.problem {
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 5px;
+}
+
+.problem input[type="text"] {
+
+    padding: 5px;
+    border-radius: 4px;
+    outline: none;
+    font-size: 14px;
+    width: 1457px;
+    height: 300px;
+}
+
+.tags {
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 5px;
+}
+
+.tags input[type="text"] {
+
+    padding: 5px;
+    border-radius: 4px;
+    outline: none;
+    font-size: 14px;
+    width: 1440px;
+}
+
+.Post button {
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 1400px;
+
+}

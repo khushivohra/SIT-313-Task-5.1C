@@ -1,0 +1,32 @@
+.post {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px 10px;
+  background-color: #35495e;
+  color: white;
+}
+
+.data {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px 10px;
+  background-color: #35495e;
+  color: white;
+
+}
+
+.Q {
+  font-weight: bold;
+  position: relative;
+  top: -20px;
+  left: 120px;
+}
+
+.A {
+  font-weight: bold;
+  position: relative;
+  top: -42px;
+  left: 220px;
+}
